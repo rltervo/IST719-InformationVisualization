@@ -1,4 +1,4 @@
-# IST719-InformationVisualization
+# IST719 - Information Visualization
 
 ## Disclaimer:
 The material posted here is a represenation of my work for the course IST719.
