@@ -5,7 +5,7 @@ The material posted here is a represenation of my work for the course IST719.
 It is designed to demonstrate the quality of my work.
 
 ## Opening Comments:
-This was taken towards the end of my time at Syracuse.  The books used in this course were excellent.  The time required for this course was a LOT but it was time well spent.  elling a story with data is an art and a science.
+I took this course towards the end of my time at Syracuse.  The books used in this course were excellent.  The time required for this course was a LOT but it was time well spent.  elling a story with data is an art and a science.
 
 ## 1. Assignments:
 Assignments were completed in the program R.  
