@@ -8,7 +8,7 @@ It is designed to demonstrate the quality of my work.
 I took this course towards the end of my time at Syracuse.  The books used in this course were excellent.  The time required for this course was a LOT but it was time well spent.  Telling a story with data is an art and a science.
 
 ## 1. Assignments:
-Assignments were completed in the program R.  
+There were a number of labs completed in R.  These were designed to give the student experience creating a variety of charts.  
 
 ## 2. Final Project:   Create a Large Poster Board to Tell a Story
 I used historical domestic airline flight data from 2004 to 2022.  The story I put forth was that airline passengers are right to be upset at the state of airtravel.  In the last year of data (2022) things looked pretty bleak.
